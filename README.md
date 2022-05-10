@@ -1,2 +1,2 @@
-# Projeto-Tela-inicial-Instagram
-Projeto-Tela-inicial-do-Instagram-Pela-Digital-inovation-One
+# Projeto-Tela-inicial-do-Instagram-DIO
+Projeto Tela inicial do Instagram DIO, realizado para entrega do projeto da escola DIO
